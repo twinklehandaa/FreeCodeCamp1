@@ -12,3 +12,17 @@ Basic Web Design using HTML and CSS
 
 ![image](https://github.com/user-attachments/assets/b123ce30-c45c-47ff-a59c-1f95f45e1413)
 ![image](https://github.com/user-attachments/assets/37265699-d1ce-4b5b-9371-1d08f8ad2eaf)
+
+3. Ferris Wheel Animation
+Animation using CSS
+
+https://github.com/user-attachments/assets/de83ed18-4c64-444b-b837-407a206d7fb2
+
+
+
+
+
+We did it fam!
+
+![image](https://github.com/user-attachments/assets/65c3fc71-1a1f-41d7-baf7-68a672b5423d)
+
